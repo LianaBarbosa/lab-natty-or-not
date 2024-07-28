@@ -24,18 +24,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+Criei uma imagem de uma serpente o mais realista possivel
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Leonardo IA
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+ultilizei as tecnicas que aprendi com o bootcamp sobre engenhaia de prompt
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+https://github.com/LianaBarbosa/fake-natty.git
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+a assertividade com o prompt
 ```
 
 ### Exemplos e Insigths
