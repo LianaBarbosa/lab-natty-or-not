@@ -32,7 +32,7 @@ Leonardo IA
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-ultilizei as tecnicas que aprendi com o bootcamp sobre engenhaia de prompt
+ultilizei as tecnicas que aprendi com o bootcamp sobre engenharia de prompt
 
 
 ## 🚀 Resultados
